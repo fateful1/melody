@@ -1,2 +1,7 @@
-# melody
-Учебный проект  Glo Academy
+# melody - учебный проект  Glo Academy
+## Проект выполнил Чиненов Александр
+
+### Технологии
+- html
+- css
+- javascript
